@@ -8,7 +8,7 @@ PHP02_データベース登録・表示
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://zouuu.sakura.ne.jp/zouuu/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
